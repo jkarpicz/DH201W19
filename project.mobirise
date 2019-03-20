@@ -779,7 +779,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<iframe frameborder=\"0\" id=\"viz_embedded_frame\" ng-src=\"/views/WAPublicArts_YearbySitebyNumberofRecords/Sheet1?%3Aembed=y&amp;%3AshowVizHome=no&amp;%3Adisplay_count=y&amp;%3Adisplay_static_image=y&amp;%3AbootstrapWhenNotified=true&amp;publish=yes\" data-load-viz-resize=\"\" data-test-id=\"vizhome-viz-embed\" allowfullscreen=\"\" src=\"/views/WAPublicArts_YearbySitebyNumberofRecords/Sheet1?%3Aembed=y&amp;%3AshowVizHome=no&amp;%3Adisplay_count=y&amp;%3Adisplay_static_image=y&amp;%3AbootstrapWhenNotified=true&amp;publish=yes\"></iframe>\n\n",
+          "_customHTML": "<div class=\"tableauPlaceholder\" id=\"viz1553064607694\" style=\"position: relative\"><noscript>&amp;lt;a href='#'&amp;gt;&amp;lt;img alt=' ' src='https:&amp;amp;#47;&amp;amp;#47;public.tableau.com&amp;amp;#47;static&amp;amp;#47;images&amp;amp;#47;WA&amp;amp;#47;WAPublicArts_YearbySitebyNumberofRecords&amp;amp;#47;Sheet1&amp;amp;#47;1_rss.png' style='border: none' /&amp;gt;&amp;lt;/a&amp;gt;</noscript><object class=\"tableauViz\" style=\"display:none;\"><param name=\"host_url\" value=\"https%3A%2F%2Fpublic.tableau.com%2F\"> <param name=\"embed_code_version\" value=\"3\"> <param name=\"site_root\" value=\"\"><param name=\"name\" value=\"WAPublicArts_YearbySitebyNumberofRecords/Sheet1\"><param name=\"tabs\" value=\"no\"><param name=\"toolbar\" value=\"yes\"><param name=\"static_image\" value=\"https://public.tableau.com/static/images/WA/WAPublicArts_YearbySitebyNumberofRecords/Sheet1/1.png\"> <param name=\"animate_transition\" value=\"yes\"><param name=\"display_static_image\" value=\"yes\"><param name=\"display_spinner\" value=\"yes\"><param name=\"display_overlay\" value=\"yes\"><param name=\"display_count\" value=\"yes\"><param name=\"filter\" value=\"publish=yes\"></object></div>                [JS_CODE_0]",
           "_customCSS": "/* Type valid AMP CSS here */\n\ndiv {\n  padding: 160px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -788,7 +788,9 @@
           "_name": "pro.custom-html",
           "_anchor": "custom-html-4",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [
+            "<script type='text/javascript'>                    var divElement = document.getElementById('viz1553064607694');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>"
+          ]
         },
         {
           "_customTemplate": true,
